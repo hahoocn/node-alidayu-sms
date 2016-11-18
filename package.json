@@ -1,6 +1,6 @@
 {
   "name": "node-alidayu-sms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js下阿里大于(原阿里大鱼)短信客户端",
   "main": "lib/index.js",
   "scripts": {
@@ -39,6 +39,6 @@
     "rimraf": "^2.5.4"
   },
   "dependencies": {
-    "node-taobao-topclient": "^0.1.6"
+    "node-taobao-topclient": "^0.1.7"
   }
 }
